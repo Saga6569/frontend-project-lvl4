@@ -1,5 +1,5 @@
 {
-  "name": "frontend-project-lvl4",
+  "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "[![Github Actions Status](https://github.com/hexlet-components/projects-frontend-l4-server/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-components/projects-frontend-l4-server/actions)",
   "main": "src/index.js",
